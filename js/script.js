@@ -19,4 +19,4 @@ const favoriteColor = prompt('Il tuo colore preferito?')
 console.log(favoriteColor)
 
 let password = document.getElementById('secret').innerHTML = firstname + lastname + favoriteColor +23;
-
+console.log(password)
