@@ -14,3 +14,4 @@ const lastname = prompt('Qual è il tuo cognome?')
 console.log(lastname)
 
 const favoriteColor = prompt('Il tuo colore preferito?')
+console.log(favoriteColor)
