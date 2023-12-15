@@ -7,6 +7,8 @@ console.log('JS OK')
 4- Infine generiamo una password con i dati che l'utente ci ha fornito, nella   forma: nomecognomecolorepreferito23
 */
 
-const firstname = prompt('Come ti chiami?')
+const firstname = prompt('Qual è il tuo nome?')
 console.log(firstname)
+
+const lastname = prompt()
 
