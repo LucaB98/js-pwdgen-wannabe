@@ -10,5 +10,7 @@ console.log('JS OK')
 const firstname = prompt('Qual è il tuo nome?')
 console.log(firstname)
 
-const lastname = prompt()
+const lastname = prompt('Qual è il tuo cognome?')
+console.log(lastname)
 
+const favoriteColor = prompt('Il tuo colore preferito?')
